@@ -107,4 +107,15 @@ main button:hover{
         flex-direction: column;
         flex-wrap: wrap;
     }
+
+    main button{
+        max-width: 500px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 10px;
+    }
+
+    main #button-right{
+        margin-left: 0;
+    }
 }
