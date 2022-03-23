@@ -108,6 +108,10 @@ main button:hover{
         flex-wrap: wrap;
     }
 
+    header h1{
+        text-align: center;
+    }
+
     main button{
         max-width: 500px;
         display: flex;
